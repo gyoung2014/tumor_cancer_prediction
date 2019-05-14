@@ -10,6 +10,12 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 * WSI (Whole Slide Image)
 * Up to 8 levels of magnification
 
+### Approach
+
+### Training & Testing Images
+
+
+
 ### References:
 [1] [starter code to begin final project](https://github.com/random-forests/applied-dl/blob/master/project/starter-code.ipynb)<br>
 [2] [Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)<br>
