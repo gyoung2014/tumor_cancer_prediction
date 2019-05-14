@@ -2,7 +2,7 @@
 
 This is the Github folder for Applied Deep Learning course final project
 
-Author: Wei Han , Yang Gao , Chengtian Xu 
+Author: Wei Han (wh2365), Yang Gao (yg2499) , Chengtian Xu (cx2168) 
 
 ### [Links to Submit Folder](https://github.com/gyoung2014/tumor_cancer_prediction/tree/master/Submit%20Folder)
 * YouTube demo: link add here !! <br>
