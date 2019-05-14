@@ -6,8 +6,6 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 
 ### Data
 
-![alt text](https://github.com/gyoung2014/tumor_cancer_prediction/blob/master/README%20IMAGE/README_IMAGE1.png "Logo Title Text 1")
-
 * Based on CAMELYON 16 challenge dataset
 * Different Zoom Level provides both context and detail
 * WSI (Whole Slide Image)
@@ -18,6 +16,7 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 * Data Preprocessing using OpenSlide
 * Color Normalization & Feature Extraction
 
+![alt text](https://github.com/gyoung2014/tumor_cancer_prediction/blob/master/README%20IMAGE/README_IMAGE1.png "Logo Title Text 1")
 
 ### Training & Testing Images
 
