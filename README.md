@@ -18,7 +18,7 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 ### Training & Testing Images
 
 
-### Links to Submit Folder
+### [Links to Submit Folder](https://github.com/gyoung2014/tumor_cancer_prediction/tree/master/Submit%20Folder)
 YouTube demo: link add here !! <br>
 Presentation Slides:  link add here !!
 
