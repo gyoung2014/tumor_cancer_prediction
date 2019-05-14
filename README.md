@@ -4,6 +4,10 @@ This is the Github folder for Applied Deep Learning course final project
 
 Author: Wei Han , Yang Gao , Chengtian Xu 
 
+### [Links to Submit Folder](https://github.com/gyoung2014/tumor_cancer_prediction/tree/master/Submit%20Folder)
+* YouTube demo: link add here !! <br>
+* Presentation Slides:  link add here !!
+
 ### Data
 
 * Based on CAMELYON 16 challenge dataset
@@ -20,10 +24,6 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 
 ### Training & Testing Images
 
-
-### [Links to Submit Folder](https://github.com/gyoung2014/tumor_cancer_prediction/tree/master/Submit%20Folder)
-* YouTube demo: link add here !! <br>
-* Presentation Slides:  link add here !!
 
 
 
