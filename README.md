@@ -15,12 +15,13 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 ### Training & Testing Images
 
 
+### Links to submit
 YouTube demo: link add here !! <br>
 Presentation Slides:  link add here !!
 
 
 
-### References:
+### References
 [1] [starter code to begin final project](https://github.com/random-forests/applied-dl/blob/master/project/starter-code.ipynb)<br>
 [2] [Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)<br>
 [3] [Assisting Pathologists in Detecting Cancer with Deep Learning by Google AI Blog](https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html)
