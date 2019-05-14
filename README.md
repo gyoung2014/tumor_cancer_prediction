@@ -26,5 +26,5 @@ Presentation Slides:  link add here !!
 
 ### References
 [1] [Starter Code to Begin Final Project](https://github.com/random-forests/applied-dl/blob/master/project/starter-code.ipynb)<br>
-[2] [Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)<br>
+[2] [Yun Liu et al., Detecting Cancer Metastases on Gigapixel Pathology Images](https://arxiv.org/abs/1703.02442)<br>
 [3] [Assisting Pathologists in Detecting Cancer with Deep Learning by Google AI Blog](https://ai.googleblog.com/2017/03/assisting-pathologists-in-detecting.html)
