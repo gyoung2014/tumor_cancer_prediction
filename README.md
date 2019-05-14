@@ -15,7 +15,7 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 ### Training & Testing Images
 
 
-### Links to submit
+### Links to Submit Folder
 YouTube demo: link add here !! <br>
 Presentation Slides:  link add here !!
 
