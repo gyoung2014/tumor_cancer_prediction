@@ -15,6 +15,10 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 ### Training & Testing Images
 
 
+YouTube demo: link add here !!
+Presentation Slides:  link add here !!
+
+
 
 ### References:
 [1] [starter code to begin final project](https://github.com/random-forests/applied-dl/blob/master/project/starter-code.ipynb)<br>
