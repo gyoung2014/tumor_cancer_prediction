@@ -2,7 +2,7 @@
 
 This is the github folder for Applied Deep Learning course final project
 
-Author: Wei Han (wh2365), Yang Gao (yg2499), Chengtian Xu (cx2168)
+Author: Wei Han , Yang Gao , Chengtian Xu 
 
 ### Data
 * Based on CAMELYON 16 challenge dataset
