@@ -15,6 +15,10 @@ Author: Wei Han , Yang Gao , Chengtian Xu
 
 ### Approach
 
+* Data Preprocessing using OpenSlide
+* Color Normalization & Feature Extraction
+
+
 ### Training & Testing Images
 
 
