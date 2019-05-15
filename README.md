@@ -38,7 +38,7 @@ Testing Slides: #: [110]
 ### Evaluation Matrics
 
 * Confusion Matrix
-* F1 score, Precision, Recall
+* Accuracy, F1 score, Precision, Recall
 
 ### References
 [1] [Starter Code to Begin Final Project](https://github.com/random-forests/applied-dl/blob/master/project/starter-code.ipynb)<br>
