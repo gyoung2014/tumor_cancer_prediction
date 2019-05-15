@@ -24,6 +24,9 @@ Author: Wei Han (wh2365), Yang Gao (yg2499) , Chengtian Xu (cx2168)
 
 ### Training & Testing Images
 
+![alt text](https://github.com/gyoung2014/tumor_cancer_prediction/blob/master/README%20IMAGE/README_IMAGE3.png "Logo Title Text 1")
+
+
 Training Slides #: [016, 101, 084, 094, 096]
 * Extraction Level: 5 & 6
 * Extraction of 120 Positive Patches + 170 Negative Patches
