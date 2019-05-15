@@ -24,8 +24,21 @@ Author: Wei Han (wh2365), Yang Gao (yg2499) , Chengtian Xu (cx2168)
 
 ### Training & Testing Images
 
+Training Slides #: [016, 101, 084, 094, 096]
+* Extraction Level: 5 & 6
+* Extraction of 120 Positive Patches + 170 Negative Patches
 
+Testing Slides: #[110]
+* Extraction Level: 5 & 6
+* Predict the patches of size (299 x 299 )
+* Create heatmap ,each patch contains a value between 0 and 1,indicating the probability that the patch contains tumor
 
+![alt text](https://github.com/gyoung2014/tumor_cancer_prediction/blob/master/README%20IMAGE/readme_image2.png "Logo Title Text 1")
+
+### Evaluation Matrics
+
+* Confusion Matrix
+* F1 score, Precision, Recall
 
 ### References
 [1] [Starter Code to Begin Final Project](https://github.com/random-forests/applied-dl/blob/master/project/starter-code.ipynb)<br>
