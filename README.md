@@ -28,7 +28,7 @@ Training Slides #: [016, 101, 084, 094, 096]
 * Extraction Level: 5 & 6
 * Extraction of 120 Positive Patches + 170 Negative Patches
 
-Testing Slides: #[110]
+Testing Slides: #: [110]
 * Extraction Level: 5 & 6
 * Predict the patches of size (299 x 299 )
 * Create heatmap ,each patch contains a value between 0 and 1,indicating the probability that the patch contains tumor
